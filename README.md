@@ -20,7 +20,7 @@ Reparo is free, open-source, and focused on doing one thing well: tracking machi
 ## Tech Stack
 
 - **Backend**: Node.js + Express/Fastify + PostgreSQL
-- **Frontend**: Next.js + React
+- **Frontend**: Vite + React
 - **Architecture**: REST API with JWT authentication
 
 ## Project Status
